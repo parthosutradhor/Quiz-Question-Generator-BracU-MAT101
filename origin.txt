@@ -1,0 +1,93 @@
+
+
+
+%--------------------------------------------
+	%\thispagestyle{empty}
+	\noindent
+	\begin{minipage}[l]{0.1\textwidth}
+		\noindent
+		\includegraphics[width=2.4\textwidth]{Brac_University_Logo.png}
+	\end{minipage}
+\hfill
+\begin{minipage}[c]{0.8\textwidth}
+	\begin{center}
+		\large BRAC University \par
+		\large	Department of Mathematics and Natural Sciences	\par
+	\large \textbf{MAT 101: Fundamentals of Mathematics}	\par
+	\large \textbf{Quiz-01} \par 
+    \large Section: 03 \par 
+    \large \textbf{Name: @Name@} \par 
+    \large \textbf{ID: @ID@} \par 
+    \large Date: 14 October, 2023
+	\end{center}
+\end{minipage}
+\par
+\vspace{0.2in}
+\noindent
+\uline{Total Time: 30 minutes	\hfill FALL 2023		\hfill Total  marks: 20}
+\par 
+\vspace{0.15in}
+\noindent
+\centering
+{\small \bfseries 	Answer all the Questions }
+
+\begin{questions}
+	\question
+        The symmetric difference of two sets \(X\) and \(Y\) which is denoted by \(X \Delta Y\), is defined by \( X \Delta Y = (X - Y) \cup (Y - X) \). Consider two sets \(A = \{@S1@\}\) and \(B = \{@S2@\}\). Calculate the symmetric difference between the sets \(A \cup B\) and \(A - B\). Draw a Venn diagram and mark the region \(X \Delta Y\).
+
+    
+    \hfill \textbf{(5)}
+    \vspace{0.1in}
+
+
+    \question
+We define the universal set \( U = \{x | x \text{ is a natural number}\} \). Let \( A = \{@S3@\} \) and \( B = \{@S4@\} \). Then compute the set \( A^c - B^c \).
+
+    
+    \hfill \textbf{(5)}
+    \vspace{0.1in}
+
+    \question
+    Consider two sets \(A = \{@S5@\}\) and \(B = \{@S6@\}\). 
+    Write down two relations which are a function from X into Y such that
+    \begin{itemize}
+    \item Injective (One One) but not Surjective (Onto)
+    \item Surjective (Onto) but not Injective (One One)
+    \end{itemize}
+
+    
+    \hfill \textbf{(5)}
+    \vspace{0.1in}
+
+
+    \question
+    Consider the following game of two players. Here row-player has action set \(\{A, B, C\}\) and column-player has action set \(\{D, E, F\}\).
+\begin{center}
+\begin{tabular}{c:c:c:c:}
+ & D & E & F \\
+\hdashline
+A & (@g1@, @g2@) & (@g3@, @g4@) & (@g5@, @g6@) \\
+\hline
+B & (@g7@, @g8@) & (@g9@, @g10@) & (@g11@, @g11@) \\
+\hline
+C & (@g13@, @g14@) & (@g15@, @g16@) & (@g17@, @g18@) \\
+\end{tabular}
+\end{center}
+
+\begin{itemize}
+    \item Calculate the best responses for the row player when the column player chooses @Col@.
+    \item Calculate the best responses for the column player when the row player chooses @Row@.
+    \end{itemize}
+
+    
+    \hfill \textbf{(5)}
+    \vspace{0.1in}
+
+
+\end{questions}
+\vspace{1in}
+{\large \bfseries Best wishes}
+\pagebreak
+
+
+
